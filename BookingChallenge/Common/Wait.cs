@@ -10,17 +10,26 @@ namespace BookingChallenge.Common
 {
     public class Wait
     {
-        private IWebDriver Driver { get; set; }
+        public SeleniumBase _seleniumBase;
+        public Wait(SeleniumBase seleniumBase)
+        {
+            _seleniumBase = seleniumBase;
+        }
 
         public void WaitVisible(By locator)
         {
-            WebDriverWait wait = new WebDriverWait(Driver, TimeSpan.FromSeconds(30));
+            WebDriverWait wait = new WebDriverWait(_seleniumBase.Driver, TimeSpan.FromSeconds(30));
             wait.Until(ExpectedConditions.VisibilityOfAllElementsLocatedBy(locator));
         }
-        public void WaitClicable(By locator)
+        public void WaitClickable(By locator)
         {
-            WebDriverWait wait = new WebDriverWait(Driver, TimeSpan.FromSeconds(30));
+            WebDriverWait wait = new WebDriverWait(_seleniumBase.Driver, TimeSpan.FromSeconds(30));
             wait.Until(ExpectedConditions.ElementToBeClickable(locator));
+        }
+        public void WaitInvisibility(By locator)
+        {
+            WebDriverWait wait = new WebDriverWait(_seleniumBase.Driver, TimeSpan.FromSeconds(30));
+            wait.Until(ExpectedConditions.InvisibilityOfElementLocated(locator));
         }
         public void WaitSeconds(int seconds)
         {

@@ -7,12 +7,16 @@ namespace BookingChallenge.Common
 {
     public class Utils
     {
-        private IWebDriver Driver { get; set; }
-        private Random random = new Random();
+        public SeleniumBase _seleniumBase;
+        public Utils(SeleniumBase seleniumBase)
+        {
+            _seleniumBase = seleniumBase;
+        }
+        private readonly Random random = new Random();
 
         public void JavaScriptExecutor(string script)
         {
-            IJavaScriptExecutor executor = (IJavaScriptExecutor)Driver;
+            IJavaScriptExecutor executor = (IJavaScriptExecutor)_seleniumBase.Driver;
             executor.ExecuteScript(script);
         }
         public int GetRandomIndex(int min, int max)
