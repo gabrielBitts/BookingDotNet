@@ -1,5 +1,4 @@
-﻿using BookingChallenge.Common;
-using BookingChallenge.PageObjects;
+﻿using BookingChallenge.PageObjects;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace BookingChallenge.Tests

@@ -88,9 +88,6 @@ I:\QA Projects\BookingDotNet\BookingChallenge\BookingChallenge\obj\Debug\netcore
 I:\QA Projects\BookingDotNet\BookingChallenge\BookingChallenge\obj\Debug\netcoreapp3.1\BookingChallenge.AssemblyInfo.cs
 I:\QA Projects\BookingDotNet\BookingChallenge\BookingChallenge\obj\Debug\netcoreapp3.1\BookingChallenge.csproj.CopyComplete
 I:\QA Projects\BookingDotNet\BookingChallenge\BookingChallenge\bin\Debug\netcoreapp3.1\WebDriver.dll
-I:\QA Projects\BookingDotNet\BookingChallenge\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-I:\QA Projects\BookingDotNet\BookingChallenge\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-I:\QA Projects\BookingDotNet\BookingChallenge\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 I:\QA Projects\BookingDotNet\BookingChallenge\bin\Debug\netcoreapp3.1\BookingChallenge.deps.json
 I:\QA Projects\BookingDotNet\BookingChallenge\bin\Debug\netcoreapp3.1\BookingChallenge.runtimeconfig.json
 I:\QA Projects\BookingDotNet\BookingChallenge\bin\Debug\netcoreapp3.1\BookingChallenge.runtimeconfig.dev.json
@@ -106,8 +103,6 @@ I:\QA Projects\BookingDotNet\BookingChallenge\bin\Debug\netcoreapp3.1\Microsoft.
 I:\QA Projects\BookingDotNet\BookingChallenge\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
 I:\QA Projects\BookingDotNet\BookingChallenge\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
 I:\QA Projects\BookingDotNet\BookingChallenge\bin\Debug\netcoreapp3.1\testhost.dll
-I:\QA Projects\BookingDotNet\BookingChallenge\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-I:\QA Projects\BookingDotNet\BookingChallenge\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 I:\QA Projects\BookingDotNet\BookingChallenge\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 I:\QA Projects\BookingDotNet\BookingChallenge\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
 I:\QA Projects\BookingDotNet\BookingChallenge\bin\Debug\netcoreapp3.1\WebDriver.dll
@@ -182,3 +177,8 @@ I:\QA Projects\BookingDotNet\BookingChallenge\obj\Debug\netcoreapp3.1\BookingCha
 I:\QA Projects\BookingDotNet\BookingChallenge\obj\Debug\netcoreapp3.1\BookingChallenge.csproj.CopyComplete
 I:\QA Projects\BookingDotNet\BookingChallenge\obj\Debug\netcoreapp3.1\BookingChallenge.dll
 I:\QA Projects\BookingDotNet\BookingChallenge\obj\Debug\netcoreapp3.1\BookingChallenge.pdb
+I:\QA Projects\BookingDotNet\BookingChallenge\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+I:\QA Projects\BookingDotNet\BookingChallenge\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+I:\QA Projects\BookingDotNet\BookingChallenge\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+I:\QA Projects\BookingDotNet\BookingChallenge\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+I:\QA Projects\BookingDotNet\BookingChallenge\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
